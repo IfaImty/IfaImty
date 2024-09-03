@@ -19,10 +19,6 @@ I am a dedicated Computer Science and Engineering student at the University of M
 - 🌱 I’m currently learning advanced algorithms and exploring the field of AI.
 - 🤝 I’m looking to collaborate on open-source projects that make a social impact.
 
-## 🎤 Other Interests
-- 🎙️ Compereing
-- 🎨 Flyer desining
-
 ## 📚 Education
 
 **B.Sc. in Computer Science and Engineering**  
