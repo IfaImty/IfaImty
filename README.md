@@ -29,6 +29,7 @@ I am a dedicated Computer Science and Engineering student at the University of M
 
 - **Athwela** - 
   Athwela is a social welfare platform that connects donors with those in need, allowing users to create and share fundraising campaigns for causes such as medical treatments and disaster relief. The platform ensures transparency with secure payment gateways, real-time progress tracking, and a robust verification system. It is built using React for the frontend, Node.js for the backend, and Firebase for the database.
+  https://github.com/Team-Halcyon/Athwela-01
 - **MysticMayhem** -
   Mystic Mayhem is a turn-based strategy game developed in Java, where players build and customize armies with various character classes and engage in strategic battles. The game showcases advanced programming skills and offers complex gameplay mechanics.
 - **Ecosync** -
