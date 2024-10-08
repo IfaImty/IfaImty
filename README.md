@@ -2,10 +2,6 @@
 
 **Computer Science and Engineering Undergraduate | University of Moratuwa**
 
----
-
-I am a dedicated Computer Science and Engineering student at the University of Moratuwa, passionate about developing innovative solutions and building robust software. With a strong foundation in computer science principles and hands-on experience in web development, and software engineering, I am eager to apply my skills to real-world challenges.
-
 
 ## 📈 Current Focus
 
