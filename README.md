@@ -20,7 +20,7 @@ I am a dedicated Computer Science and Engineering student at the University of M
 (Expected Graduation: 2027)
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -35,11 +35,11 @@ I am a dedicated Computer Science and Engineering student at the University of M
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 [![IfaImty's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IfaImty&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Streak Stats:
+## Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IfaImty&theme=radical)](https://git.io/streak-stats)
 
