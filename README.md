@@ -32,8 +32,13 @@ I am a dedicated Computer Science and Engineering student at the University of M
   
 - **MysticMayhem** -
   Mystic Mayhem is a turn-based strategy game developed in Java, where players build and customize armies with various character classes and engage in strategic battles. The game showcases advanced programming skills and offers complex gameplay mechanics.
+  
 - **Ecosync** -
   The Ecosync Web Portal supports the Ecosync AI-powered air conditioning control system for luxury hotels. It provides detailed product information, facilitates direct orders, and showcases user ratings and reviews, enhancing user engagement and operational efficiency. My role focused on creating a responsive design that simplifies the user experience and promotes sustainability.
+  
+- **Nanoprocessor Design Project** -
+  Our project involved designing a 4-bit nanoprocessor capable of executing a basic instruction set. My contributions to the nanoprocessor design project focused on essential components: the 3-bit adder for incrementing the Program Counter, the instruction decoder for interpreting and controlling instruction flow, the Program ROM for storing assembly instructions, an improved comparator for comparing register values, and simulation files for testing models, including multiplexers and the instruction decoder. GitHub Repository;  https://github.com/AnasSAV/Nano_Processor_Improved
+  
 <!--
 ## 📊 GitHub Stats
 
