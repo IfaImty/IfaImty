@@ -43,7 +43,7 @@ I am a dedicated Computer Science and Engineering student at the University of M
 - **Certificate in Information Technology** - ESoft Metro Campus
 - **Certificate in Full Stack Development** - Open learning center, University of Moratuwa
 - **Finalists** - Genesiz, organized by the Electronic, Robotics and Innovation Club OF KDU [2024]
-- **Semi-Finalists** - IDEALIZE, organized by AIESEC in University of Moratuwa [2024]
+- **Finalists** - IDEALIZE, organized by AIESEC in University of Moratuwa [2024]
 
 ## 📫 Contact Me
 
