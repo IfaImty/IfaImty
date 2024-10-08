@@ -17,13 +17,19 @@ I am a dedicated Computer Science and Engineering student at the University of M
 
 - 🔭 I’m currently working on projects involving web development and data science.
 - 🌱 I’m currently learning advanced algorithms and exploring the field of AI.
-- 🤝 I’m looking to collaborate on open-source projects that make a social impact.
+
 
 ## 📚 Education
 
 **B.Sc. in Computer Science and Engineering**  
 *University of Moratuwa*  
 (Expected Graduation: 2027)
+
+
+## 📊 GitHub Stats
+
+![Ifadha's GitHub stats](https://github-readme-stats.vercel.app/api?username=IfaImty&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🌟 Featured Projects
 
@@ -39,11 +45,7 @@ I am a dedicated Computer Science and Engineering student at the University of M
 - **Nanoprocessor Design Project** -
   Our project involved designing a 4-bit nanoprocessor capable of executing a basic instruction set. My contributions to the nanoprocessor design project focused on essential components: the 3-bit adder for incrementing the Program Counter, the instruction decoder for interpreting and controlling instruction flow, the Program ROM for storing assembly instructions, an improved comparator for comparing register values, and simulation files for testing models, including multiplexers and the instruction decoder. GitHub Repository;  https://github.com/AnasSAV/Nano_Processor_Improved
   
-<!--
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true)
--->
 ## 📝 Certifications & Achievements
 
 - **Certificate in Information Technology** - ESoft Metro Campus
