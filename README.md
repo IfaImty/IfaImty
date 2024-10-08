@@ -28,7 +28,12 @@ I am a dedicated Computer Science and Engineering student at the University of M
 
 ## 📊 GitHub Stats
 
-![Ifadha's GitHub stats](https://github-readme-stats.vercel.app/api?username=IfaImty&show_icons=true&hide_border=true&count_private=true)
+## 📊 GitHub Stats:
+
+![Ifadha's GitHub stats](https://github-readme-stats.vercel.app/api?username=IfaImty&show_icons=true&theme=radical&count_private=true&border_radius=15)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IfaImty&theme=radical)
+
 
 
 ## 🌟 Featured Projects
