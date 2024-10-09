@@ -42,7 +42,7 @@
 
 <!--![Top languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IfaImty&theme=radical)-->
 
-![Most used languagaes](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IfaImty&theme=radical)
+![Top languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IfaImty&theme=radical)
 
 <!--
 ## Most Used Languages:
