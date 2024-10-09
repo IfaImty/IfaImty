@@ -39,7 +39,7 @@
 
 ## Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IfaImty&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IfaImty&theme=radical)] <!--(https://git.io/streak-stats)-->
 
 <!--
 ## Most Used Languages:
