@@ -40,7 +40,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=IfaImty&theme=radical)<!--(https://git.io/streak-stats)-->
 
-![Top languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IfaImty&theme=radical)
+<!--![Top languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IfaImty&theme=radical)-->
 
 ![Top languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IfaImty&theme=radical)
 
