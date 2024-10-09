@@ -35,11 +35,12 @@
 
 ## 📊 GitHub Stats
 
-[![IfaImty's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IfaImty&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![IfaImty's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IfaImty&theme=radical)
+<!--(https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
 
 ## Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IfaImty&theme=radical)] <!--(https://git.io/streak-stats)-->
+![GitHub Streak](https://streak-stats.demolab.com/?user=IfaImty&theme=radical)<!--(https://git.io/streak-stats)-->
 
 <!--
 ## Most Used Languages:
