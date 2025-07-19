@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-
+<!--
 ## 📊 GitHub Stats
 
 ![IfaImty's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IfaImty&theme=radical)
@@ -43,7 +43,7 @@
 <!--![Top languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IfaImty&theme=radical)-->
 
 ![Top languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IfaImty&theme=radical)
-
+--> 
 <!--
 ## Most Used Languages:
 
